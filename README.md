@@ -6,6 +6,7 @@
   <label>Languages</label><br><br>
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
      <img height= 20px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -14,7 +15,7 @@
     <br>
 
    <div >
-    <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=shennonflavio&layout=compact&show_icons=true&theme=dark" style="max-width: 100%;">
+    <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=shennonflavio&include_all_commits=true&layout=compact&show_icons=true&theme=dark" style="max-width: 100%;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shennonflavio&layout=compact&langs_count=7&show_icons=true&theme=dark" style="max-width: 100%;">
   </div>
 
