@@ -1,5 +1,23 @@
 ### Hi there 👋
 
+### I'm Shennon Pereira
+   <div>
+  <p>Facinate about technology and as a developer, I want to increasing my knowledge in programming and development.<br> This is a space to share my studies.</p>
+  <label>Languages</label><br><br>
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+     <img height= 20px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+     <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  </div>
+    <br>
+
+   <div >
+    <img  height="195em"  src="https://github-readme-stats.vercel.app/api?username=shennonflavio&layout=compact&show_icons=true&theme=dark">
+    <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shennonflavio&layout=compact&langs_count=7&show_icons=true&theme=dark">
+  </div>
+
 <!--
 **shennonflavio/shennonflavio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +32,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
