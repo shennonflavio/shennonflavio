@@ -3,7 +3,7 @@
 ### I'm Shennon Pereira
    <div>
   <p>Facinate about technology and as a developer, I want to increasing my knowledge in programming and development.<br> This is a space to share my studies.</p>
-  <label>Languages</label><br><br>
+  <label>Technologies</label><br><br>
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
      <img height= 20px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
